@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Sherly0912
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ( still figuring out )
 - 📫 How to reach me officialsherly9@gmail.com
-- 😄 Pronouns: she | her
-- ⚡ Fun fact: Back then , it's was a second ago 😆
+- 😄 Pronouns: she | her | Ms.
+- ⚡ Fun fact: Back then , it was a second ago 😆
 
 <!---
 Sherly0912/Sherly0912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
